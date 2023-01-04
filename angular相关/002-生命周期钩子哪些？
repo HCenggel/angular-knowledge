@@ -1,0 +1,10 @@
+# 生命周期钩子有一下几个
+
+- ngOnChanges  Angular设置或重新设置数据绑定的输入属性时响应，一般监视父组件传过来的值可以在这里写。
+- ngOnInit  Angular第一次显示数据绑定和设置指令/组件的输入属性之后，初始化指令/组件。
+- ngDoCheck  检测，并在发生 Angular 无法或不愿意自己检测的变化时作出反应，因为这个函数被调用的比较频繁所以不建议使用。
+- ngAfterContentInit  Angular把外部内容投影进组件视图或指令所在的视图之后调用。
+- ngAfterContentChecked   Angular检查完被投影到组件或指令中的内容之后调用。
+- ngAfterViewInit   Angular初始化完组件视图及其子视图或包含该指令的视图之后调用。
+- ngAfterViewChecked Angular做完组件视图和子视图或包含该指令的视图的变更检测之后调用。
+- ngOnDestroy  销毁指令/组件销毁之前触发，一般这里消除时间函数、销毁订阅等操作。
