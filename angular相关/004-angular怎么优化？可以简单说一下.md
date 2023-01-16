@@ -9,4 +9,10 @@
 
 # 合理使用生命周期函数
 比如说ngDoCheck（生命周期钩子），因为ngDoCheck的触发次数比较多，所以尽量少使用ngDoCheck。
+
+# 时间函数
+在组件里使用时间函数setInterval，当组件销毁时需要进行clearInterval取消setInterval。
+
+
+
 正在编写...
