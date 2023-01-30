@@ -19,4 +19,10 @@
 # 共享服务
 每次销毁组件时需要终止
 
+# ngFor优化
+ngFor使用trackBy重新渲染已更改的节点，对于没有变化的数据不进行渲染。
+```html
+<li *ngFor="let item of list2; index as i; trackBy: trackByFn">{{item}}</li>
+```
+
 正在编写...
