@@ -25,4 +25,8 @@ ngFor使用trackBy重新渲染已更改的节点，对于没有变化的数据�
 <li *ngFor="let item of list2; index as i; trackBy: trackByFn">{{item}}</li>
 ```
 
+# 第三方库
+在选择第三方库时应该考虑使用场景，如果只是用第三方的某个简单的功能，自己写轮子就可以，不应该为了一个小功能引入一个很大的包。
+
+
 正在编写...
