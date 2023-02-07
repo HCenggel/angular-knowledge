@@ -15,4 +15,4 @@
 - 请不要提交大量的文件（验证需要时间）
 - 文件格式必须是md文件
 
-![angular (1)](https://user-images.githubusercontent.com/24600623/211195837-63c0e5f5-f96d-4ab9-a6fb-3c22f54760c5.svg)
+<img style="display:block; height:120px; margin:auto auto;" src="https://user-images.githubusercontent.com/24600623/211195837-63c0e5f5-f96d-4ab9-a6fb-3c22f54760c5.svg" />
