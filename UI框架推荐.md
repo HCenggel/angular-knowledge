@@ -1,5 +1,5 @@
 ## PC端
-- [官方 Material UI组件库 中文](https://material.angular.cn/)
+ - [官方 Material UI组件库 中文](https://material.angular.cn/)
  - [官方 Material UI组件库 英文](https://material.angular.io/)
  - [华为 DevUI 组件库](https://devui.design/home)
  - [ng-zorro 组件库](https://ng.ant.design/)
@@ -10,6 +10,7 @@
  - [Awade Jigsaw](https://jigsaw-zte.gitee.io/latest/#/home)
  - [Blox Material](https://material.src.zone/)
  - [icon - 比较全的icon图标，风格统一](https://github.com/ng-icons/ng-icons)
+ - [Tethys - 开箱即用的企业级 Angular 组件库](https://tethys.pingcode.com/)
 
 ## 移动端
  - [ionic - 面向 Web 的移动 SDK，安卓/IOS/web都可以](https://ionicframework.com/)
