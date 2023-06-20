@@ -1,0 +1,26 @@
+什么是角
+Angular 和 Angular JS 有什么区别？
+什么是组件、模块和服务？
+什么是数据绑定？
+什么是插值？
+什么是属性绑定？
+什么是事件绑定
+什么是双向绑定？
+什么是指令及其类型？
+什么是装饰器及其类型？
+什么是延迟加载？
+模板驱动表单和响应式表单有什么区别？
+定义 Auth Guard 及其类型。
+Observable 和 Promises 有什么区别？
+什么是viewchild和viewchildren？
+什么是 contentchild 和 Contentchildren？
+什么是模板引用变量？
+什么是生命周期钩子？
+什么是依赖注入？
+如何将数据从一个组件传递到另一个组件？
+什么是 ng-container、ng-template 和 ng-content？
+什么是拦截器？
+定义管道及其类型。
+什么是纯管和不纯管？
+如何创建自定义管道和过滤管道？
+什么是 AOT 和 JIT？
