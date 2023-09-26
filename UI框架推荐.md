@@ -12,6 +12,7 @@
  - [icon - 比较全的icon图标，风格统一](https://github.com/ng-icons/ng-icons)
  - [Tethys - 开箱即用的企业级 Angular 组件库](https://tethys.pingcode.com/)
  - [primeng - 自称最完整的 Angular UI 组件库](https://github.com/primefaces/primeng)
+ - [spartan - Angular全栈开发的尖端工具](https://github.com/goetzrobin/spartan)
 
 ## 移动端
  - [ionic - 面向 Web 的移动 SDK，安卓/IOS/web都可以](https://ionicframework.com/)
