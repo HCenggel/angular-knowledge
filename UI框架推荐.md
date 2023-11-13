@@ -17,3 +17,6 @@
 ## 移动端
  - [ionic - 面向 Web 的移动 SDK，安卓/IOS/web都可以](https://ionicframework.com/)
  - [ng-zorro mobile 组件库](https://ng.mobile.ant.design/#/)
+
+## 通用
+ - [vscode-material-icon](https://github.com/PKief/vscode-material-icon-theme)
