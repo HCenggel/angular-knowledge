@@ -15,6 +15,7 @@
  - [Spartan - Angular全栈开发的尖端工具](https://github.com/goetzrobin/spartan)
  - [Extensions - Material 扩展库](https://github.com/ng-matero/extensions)
  - [ng-primitives - 无头UI组件库](https://github.com/ng-primitives/ng-primitives)
+ - [Element组件库](https://element-angular.faas.ele.me/guide/install)
 
 ## 移动端
  - [ionic - 面向 Web 的移动 SDK，安卓/IOS/web都可以](https://ionicframework.com/)
